@@ -47,7 +47,7 @@ const AboutPhotoGrid = () => {
         <Typography
           sx={{marginTop:'20px', width:{xs: '80%', md:'50%'}, textAlign:'center', fontSize:'14px', color:'#262a2a'}}
         >
-           We're a small, tight-knit team focused on making Big Cartel empowering and easy to use. Some of us run our own Big Cartel stores, others are musicians, illustrators, and filmmakers. We’ve worked hard to build a company where we do big things. We're here to help you do the same.
+           We're a small, tight-knit team focused on making Big Cartel empowering and easy to use. Some of us run our own Big Cartel stores, others are musicians, illustrators, and filmmakers. We've worked hard to build a company where we do big things. We're here to help you do the same.
         </Typography>
       </Box>
          <img src="https://images.unsplash.com/photo-1568992687947-868a62a9f521?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80" alt="" 

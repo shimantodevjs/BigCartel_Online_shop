@@ -18,6 +18,7 @@ const SignupForm = () => {
        <Box
        sx={{
         backgroundColor:'#ADD8E6',
+        height:'100vh'
        }}
     >
       <Box
@@ -94,7 +95,7 @@ const SignupForm = () => {
         <Typography variant='caption' component='div'
            sx={{
                 textAlign:'center',
-                padding:'30px 0px',
+                padding:'30px 0px 0px',
                 width:'300px',
                 fontSize:'12px'
               }}
