@@ -1,8 +1,8 @@
 import React from 'react'
 import { Box } from '@mui/material'
-import Navbar from '../components/navbar/Navbar'
-import Pricing from '../components/pricingPage/Pricing'
-import Footer from '../components/Footer/Footer'
+import Navbar from '../src/components/navbar/Navbar'
+import Footer from '../src/components/Footer/Footer'
+import Pricing from '../src/components/pricingPage/Pricing'
 
 const PricingPage = () => {
   return (

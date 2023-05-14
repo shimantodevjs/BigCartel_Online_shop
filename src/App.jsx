@@ -1,11 +1,11 @@
-import { useEffect, useState } from 'react'
-import Home from '../../src/Pages/Home'
-import Examples from '../../src/Pages/Examples'
-import PricingPage from '../../src/Pages/PricingPage'
-import About from '../../src/Pages/About'
-import LogIn from '../../src/Pages/LogIn'
-import SignUp from '../../src/Pages/SignUp'
+import { useEffect } from 'react'
 import { Route, Routes , useLocation} from "react-router-dom"
+import Home from '../Pages/Home';
+import Examples from '../Pages/Examples'
+import PricingPage from '../Pages/PricingPage'
+import About from '../Pages/About'
+import LogIn from '../Pages/LogIn'
+import SignUp from '../Pages/SignUp'
 
 function App() {
   const { pathname } = useLocation();
