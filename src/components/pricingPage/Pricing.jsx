@@ -1,6 +1,6 @@
 import React from 'react'
-import CardData from './cardData'
-import CardContainer from './CardContainer'
+import CardData from '../pricingPage/CardData'
+import CardContainer from '../pricingPage/CardContainer'
 import { Stack , Typography, Box  } from '@mui/material'
 
 const Pricing = () => {
