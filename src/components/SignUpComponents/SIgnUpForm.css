@@ -1,0 +1,28 @@
+.form-button {
+    background-color: #f0ead6;
+    color: #000;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    transition: background-color 0.3s ease;
+    cursor: pointer;
+    width: 100%;
+    padding: 20px;
+}
+
+.form-button:hover {
+    background-color: #262a2a !important;
+    color: #fff;
+}
+
+.form-input {
+    border: none;
+    outline: none;
+    width: 100%;
+    border-bottom: 1px solid #ccc;
+    padding: 20px;
+}
+
+form{
+    border-radius: 10px;
+}

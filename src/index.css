@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+* {
+  font-family: 'Poppins', sans-serif !important;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Set the width of the scrollbar */
+body {
+  scrollbar-width: thin;
+}
+
+/* Set the color of the scrollbar thumb and track */
+body::-webkit-scrollbar-thumb {
+  background-color: #555;
+}
+
+body::-webkit-scrollbar-track {
+  background-color: #f5f5f5;
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: #555;
+}
+
+/* Firefox */
+body {
+  scrollbar-color: #555 #f5f5f5;
+}
+
+Button:hover {
+  background-color: #000 !important;
+}
+
+.blogImg {
+  padding: 80px;
+}
+
+a {
+  color: #262a2a;
+  text-decoration: none;
+}
+
+a:hover {
+  color: inherit;
+}
+
+.link {
+  color: #fff;
+}
+
+.green-button {
+  color: green !important;
+}
+
+.galleryPhoto:hover {
+  transform: scale(1.02);
+}
+
+
+
+@media (max-width: 767px) {
+  .blogImg {
+    padding: 30px;
+  }
+}
